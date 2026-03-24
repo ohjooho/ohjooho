@@ -1,15 +1,11 @@
 # <p align="center">✨ Jooho Oh ✨</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=003262&height=250&section=header&text=Jooho%20Oh&fontSize=70&fontColor=FDB515&animation=twinkle&fontAlignY=38" />
-</p>
-
 ---
 
 ## 🎓 Education
 <table>
   <tr>
-    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_the_University_of_California%2C_Berkeley.svg" width="80px"/></td>
+    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="80px"/></td>
     <td>
       <strong>UC Berkeley</strong><br/>
       B.A. in Statistics (Class of 2023) 🐻<br/>
