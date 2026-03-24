@@ -1,4 +1,4 @@
-# <p align="center">✨ Jooho Oh ✨</p>
+# <p align="center">Jooho Oh</p>
 
 ---
 
