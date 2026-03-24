@@ -29,10 +29,9 @@ I bridge the gap between **Statistical Rigor** and **Modern Web Technology**. I 
 - **Data Engineering:** Designing efficient data pipelines and automation scripts.
 
 ## 📫 How to reach me
-* **LinkedIn:** [linkedin.com/in/your-id](https://linkedin.com/in/your-id) * **Email:** your-email@address.com
-
+* **LinkedIn:** [linkedin.com/in/your-id](https://linkedin.com/in/JoohoOh) * **Email:** ojh41653@gmail.com
 ---
 
 ## ⚡ GitHub Stats
-![Jooho's GitHub stats](https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=radical)
+![Jooho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjooho&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjooho&layout=compact&theme=radical)
