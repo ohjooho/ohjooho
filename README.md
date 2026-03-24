@@ -1,11 +1,22 @@
-# Hi there, I'm Jooho Oh! 👋
+# <p align="center">✨ Jooho Oh ✨</p>
 
-### 📊 Statistics Enthusiast & Aspiring Data Engineer
-I bridge the gap between **Statistical Rigor** and **Modern Web Technology**. I love uncovering insights from data and building scalable applications to showcase them. Currently transitioning to FullStack Developer!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Jooho%20Oh&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</p>
+
 ---
 
 ## 🎓 Education
-* **UC Berkeley** | B.A. in Statistics (Class of 2023) 🐻
+<table>
+  <tr>
+    <td width="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_the_University_of_California%2C_Berkeley.svg" width="80px"/></td>
+    <td>
+      <strong>UC Berkeley</strong><br/>
+      B.A. in Statistics (Class of 2023) 🐻<br/>
+      <em>Go Bears!</em>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 
@@ -23,13 +34,18 @@ I bridge the gap between **Statistical Rigor** and **Modern Web Technology**. I 
 
 ---
 
-## 🚀 Projects & Interests
+## 🚀 Projects
 - **Statistical Modeling:** Developing predictive models and conducting deep-dive EDA.
 - **Full-stack Visualization:** Building interactive dashboards using Vue.js and Node.js.
 - **Data Engineering:** Designing efficient data pipelines and automation scripts.
 
-## 📫 How to reach me
-* **LinkedIn:** [linkedin.com/in/your-id](https://linkedin.com/in/JoohoOh) * **Email:** ojh41653@gmail.com
+---
+
+## 🚀 Key Focus & Interests
+* **Data-Driven Decision Making:** 통계적 모델링을 통한 비즈니스 인사이트 도출
+* **Full-stack Data Apps:** 데이터 시각화 및 인터랙티브 웹 대시보드 개발
+* **Algorithmic Thinking:** 효율적인 데이터 처리 및 자동화 시스템 설계
+
 ---
 
 ## ⚡ GitHub Stats
