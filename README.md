@@ -1,7 +1,7 @@
 # <p align="center">✨ Jooho Oh ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Jooho%20Oh&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=003262&height=250&section=header&text=Jooho%20Oh&fontSize=70&fontColor=FDB515&animation=twinkle&fontAlignY=38" />
 </p>
 
 ---
