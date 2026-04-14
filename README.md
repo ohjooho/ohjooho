@@ -24,13 +24,6 @@
 
 ---
 
-## 🚀 Projects
-- **Statistical Modeling:** Developing predictive models and conducting deep-dive EDA.
-- **Full-stack Visualization:** Building interactive dashboards using Vue.js and Node.js.
-- **Data Engineering:** Designing efficient data pipelines and automation scripts.
-
----
-
 ## 🚀 Key Focus & Interests
 * **Data-Driven Decision Making:** 통계적 모델링을 통한 비즈니스 인사이트 도출
 * **Full-stack Data Apps:** 데이터 시각화 및 인터랙티브 웹 대시보드 개발
@@ -38,6 +31,3 @@
 
 ---
 
-## ⚡ GitHub Stats
-![Jooho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjooho&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjooho&layout=compact&theme=radical)
